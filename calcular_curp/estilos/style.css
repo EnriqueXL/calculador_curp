@@ -1,0 +1,12 @@
+#resultado2 {
+    background-color: red;
+    color: white;
+    font-weight: bold;
+}
+#resultado2.ok {
+    background-color: green;
+}
+
+input{
+  text-transform: uppercase;
+}
